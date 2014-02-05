@@ -1,0 +1,21 @@
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\bin\Debug\MySQLForm.exe
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\bin\Debug\MySQLForm.pdb
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\obj\x86\Debug\MySQLForm.Form1.resources
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\obj\x86\Debug\MySQLForm.Properties.Resources.resources
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\obj\x86\Debug\MySQLForm.exe
+C:\Users\Fer\AppData\Local\Temporary Projects\MySQLForm\obj\x86\Debug\MySQLForm.pdb
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\bin\Debug\MySQLForm.exe
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\bin\Debug\MySQLForm.pdb
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\MySQLForm.Form1.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\MySQLForm.Properties.Resources.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\MySQLForm.exe
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\MySQLForm.pdb
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\bin\Debug\es-MX\MySQLForm.resources.dll
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\MySQLForm.Form1.es-MX.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\MySQLForm\MySQLForm\obj\x86\Debug\es-MX\MySQLForm.resources.dll
